@@ -61,8 +61,4 @@ Didn't worked for me:
  
  * [Cant run vagrant up](http://stackoverflow.com/questions/34441503/cant-run-vagrant-up)
 
-
-
-
-
-
+----
