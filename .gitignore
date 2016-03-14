@@ -1,5 +1,13 @@
+*.iws
 *.lock
 *~
+.idea/
 .vagrant/
+/out/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
 cookbooks/
+crashlytics-build.properties
+crashlytics.properties
+fabric.properties
 tmp/
