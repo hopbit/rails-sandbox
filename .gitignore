@@ -1,0 +1,5 @@
+*.lock
+*~
+.vagrant/
+cookbooks/
+tmp/
